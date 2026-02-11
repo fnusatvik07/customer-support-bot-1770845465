@@ -1,0 +1,16 @@
+{
+  "name": "agent-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for AI Agent",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "serve": "python -m http.server"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "frontend"
+  ],
+  "dependencies": {}
+}
